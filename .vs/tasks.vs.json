@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Minolovac",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-counter_background",
+      "appliesTo": "resources/counter_background.png",
+      "type": "launch"
+    }
+  ]
+}
